@@ -1,0 +1,14 @@
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.exe
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.deps.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.runtimeconfig.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.runtimeconfig.dev.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.csproj.AssemblyReference.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.AssemblyInfoInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.AssemblyInfo.cs
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.csproj.CoreCompileInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.TwoFunctions\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.TwoFunctions.genruntimeconfig.cache

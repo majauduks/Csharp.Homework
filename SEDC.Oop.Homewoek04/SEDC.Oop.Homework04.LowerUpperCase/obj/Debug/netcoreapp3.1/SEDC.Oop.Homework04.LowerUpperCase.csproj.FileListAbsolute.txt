@@ -1,0 +1,14 @@
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.exe
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.deps.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.runtimeconfig.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.runtimeconfig.dev.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.csproj.AssemblyReference.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.AssemblyInfoInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.AssemblyInfo.cs
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.csproj.CoreCompileInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.LowerUpperCase\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.LowerUpperCase.genruntimeconfig.cache

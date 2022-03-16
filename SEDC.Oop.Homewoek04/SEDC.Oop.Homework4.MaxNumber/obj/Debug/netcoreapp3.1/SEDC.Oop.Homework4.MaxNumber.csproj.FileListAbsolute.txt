@@ -1,0 +1,14 @@
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.csproj.AssemblyReference.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.AssemblyInfoInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.AssemblyInfo.cs
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.exe
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.deps.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.runtimeconfig.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.runtimeconfig.dev.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework4.MaxNumber\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework4.MaxNumber.genruntimeconfig.cache

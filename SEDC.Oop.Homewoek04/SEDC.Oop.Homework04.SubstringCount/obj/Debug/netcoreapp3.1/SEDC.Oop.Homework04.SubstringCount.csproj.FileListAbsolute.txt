@@ -1,0 +1,14 @@
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.csproj.AssemblyReference.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.AssemblyInfoInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.AssemblyInfo.cs
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.csproj.CoreCompileInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.exe
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.deps.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.runtimeconfig.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.runtimeconfig.dev.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.SubstringCount\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.SubstringCount.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.exe
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.deps.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.runtimeconfig.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.runtimeconfig.dev.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.csproj.AssemblyReference.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.AssemblyInfoInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.AssemblyInfo.cs
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.IsAlphabet\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.IsAlphabet.genruntimeconfig.cache

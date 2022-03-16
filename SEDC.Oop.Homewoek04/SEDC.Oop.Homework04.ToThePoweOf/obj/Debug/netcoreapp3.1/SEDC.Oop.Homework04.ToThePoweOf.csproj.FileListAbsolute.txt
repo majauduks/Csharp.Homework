@@ -1,0 +1,14 @@
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.exe
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.deps.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.runtimeconfig.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.runtimeconfig.dev.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.csproj.AssemblyReference.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.AssemblyInfoInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.AssemblyInfo.cs
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.csproj.CoreCompileInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.ToThePoweOf\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.ToThePoweOf.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.exe
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.deps.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.runtimeconfig.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.runtimeconfig.dev.json
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.csproj.AssemblyReference.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.AssemblyInfoInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.AssemblyInfo.cs
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.dll
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.pdb
+C:\Users\maja.nikolikj\source\repos\SEDC.Oop.Homewoek04\SEDC.Oop.Homework04.Palindrome\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework04.Palindrome.genruntimeconfig.cache
